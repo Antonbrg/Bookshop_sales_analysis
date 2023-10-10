@@ -3,7 +3,7 @@ Data analysis for a new bookshop in python
 
 My goal is to analyse the sales of a new bookshop over the last two years. The idea is to help the directors make decisions for the next few years. In  addition, I had to understand how customers behave on internet.
 
-** Contents 
+## Contents 
 
 Analysis of the various indicators and graphs relating to sales.
 Trend over time and breakdown into moving averages to assess the overall trend.
